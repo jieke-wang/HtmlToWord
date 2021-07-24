@@ -1,0 +1,15 @@
+﻿https://www.nuget.org/packages/HtmlToOpenXml.dll/
+https://www.nuget.org/packages/HtmlToOpenXml/
+https://github.com/onizet/html2openxml
+
+
+小四号字体是多少号字体（数字）
+https://zhidao.baidu.com/question/538319561.html
+
+磅数÷2.835=毫米数
+
+word中的小四，或者四号在html中应该怎么设置font-size
+https://bbs.csdn.net/topics/340098492
+
+html p行间距离 <p>标签上下行间距CSS设置
+https://www.cnblogs.com/zhengyuan1314/p/7019817.html
